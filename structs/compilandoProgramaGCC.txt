@@ -1,0 +1,17 @@
+para compilar o programa é so escrever:
+
+gcc prog.c -o programazin
+
+"gcc" é o comando para compilar
+"prog.c" é o arquivo que será compilado
+"-o programazin" indica que a saída da compilação será feita no arquivo 'programazin'
+
+./programazin executa o arquivo
+
+
+ooutro compilador util é o g++ (trata todos os arquivos como .cpp)
+para usar ele é do mesmo jeito do gcc.
+
+g++ prog.c -o programazintos
+
+./programazintos executa o programa;
